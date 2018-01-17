@@ -1,0 +1,64 @@
+.list-container {
+  height:12vh;
+  background-color: rgba(255,255,255,0.8);
+  margin-bottom:2vh;
+}
+.landing-screen {
+  min-height:100vh;
+  background-color:rgb(220,220,220);
+}
+
+.heading {
+  padding: 1vh;
+  text-align: center;
+  font-size: 11px;
+  background: antiquewhite;
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.green {
+  background: green;
+}
+
+.red {
+  background: red;
+}
+
+.logo, .tabs {
+  padding:2vh;
+  background-color:rgb(139,0,19);
+  color:white;
+}
+.tabs {
+  justify-content: space-around;
+}
+
+.yellow {
+  background: yellow;
+}
+.logo > img{
+    width:150px;
+}
+.noOfApplications {
+  height:10vh;
+  padding-left:5vw;
+}
+.applicationList {
+  padding:3vh;
+}
+.data-container {
+  padding:2vh;
+}
+.textHeading {
+  width:100px;
+}
+.active {
+  border-bottom:2px solid white;
+}
+.tab {
+  padding-bottom:2vh;
+}

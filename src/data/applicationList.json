@@ -1,0 +1,39 @@
+{
+  "applicationList": [{
+    "applicationId": "SBI10",
+    "status": "Created",
+    "ETA": "3days",
+    "createdAt": "03/01/2018",
+    "comments": "It would be processed after all the documents are submitted"
+  }, {
+    "applicationId": "HDFC02",
+    "status": "Processing",
+    "ETA": "4days",
+    "createdAt": "03/01/2018",
+    "comments": "Please provide valid DOB proof"
+  }, {
+    "applicationId": "SBI20",
+    "status": "Processing",
+    "ETA": "3days",
+    "createdAt": "03/01/2018",
+    "comments": "It would be processed after all the documents are submitted"
+  }, {
+    "applicationId": "HDFC22",
+    "status": "Processing",
+    "ETA": "4days",
+    "createdAt": "03/01/2018",
+    "comments": "Please provide valid DOB proof"
+  }, {
+    "applicationId": "SB310",
+    "status": "Completed",
+    "ETA": "3days",
+    "createdAt": "03/01/2018",
+    "comments": "It would be processed after all the documents are submitted"
+  }, {
+    "applicationId": "HDFC112",
+    "status": "Created",
+    "ETA": "4days",
+    "createdAt": "03/01/2018",
+    "comments": "Please provide valid DOB proof"
+  }]
+}
